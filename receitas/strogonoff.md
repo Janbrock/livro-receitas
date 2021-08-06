@@ -2,9 +2,11 @@
 
 ### Ingredientes
 
-- peito de frango
-- **negrito**
-- _itálico_
+- Peito de frango
+- Creme de leite
+- Milho
+- Ervilha
+- Páprica
 - 
 
 
