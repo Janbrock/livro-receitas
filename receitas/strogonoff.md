@@ -7,7 +7,6 @@
 - Milho
 - Ervilha
 - Páprica
-- 
 
 
 
